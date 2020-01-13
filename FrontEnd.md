@@ -2,9 +2,9 @@
 
 #### Sua tarefa é construir um front-end para a aplicação VUTTR (Very Useful Tools to Remember). A aplicação é um simples repositório para gerenciar ferramentas com seus respectivos nomes, links, descrições e tags. Utilize um repositório Git (público, de preferência) para versionamento e disponibilização do código.
 
-#### O front-end deve ser construído utilizando framework JavaScript React de preferência, seguindo os wireframes apresentados abaixo.
+#### O front-end deve ser construído utilizando framework JavaScript React de preferência, seguindo os wireframes apresentados abaixo. Pode ser React, porém gostaríamos de ver suas habilidades em React-Native.
 
-#### O que será avaliado
+#### O que será avaliado:
 
 **Queremos avaliar sua capacidade de desenvolver e documentar um front-end para uma aplicação com back-end pronto.** Serão avaliados:
 
