@@ -31,19 +31,19 @@ Os pontos a seguir se destacam como características para se destacar.
 
 1. O(A) usuário(a) deve poder ver a lista de todas as ferramentas cadastradas
 
-Home.png
+![](designs/Home.png)
 
 2. O usuário deve poder adicionar uma nova ferramenta
 
-add-tool.png
+![](designs/Add-tool.png)
 
 3. O usuário deve poder remover uma ferramenta
 
-remove-tool.png
+![](designs/Remove-tool.png)
 
 4. O usuário deve poder buscar ferramentas dinamicamente (global ou utilizando apenas tags)
 
-search.png
+![](designs/search.png)
 
 #### Critérios de Aceitação
 
