@@ -54,4 +54,4 @@ Bom trabalho!
 
 API
 
-Utilize um mockAPI para disponibilizar os dados para você! Ou se f
+Utilize um mockAPI para disponibilizar os dados para você! 
