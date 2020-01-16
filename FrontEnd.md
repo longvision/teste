@@ -13,7 +13,8 @@
 - Seu conhecimento em JavaScript, HTML e CSS;
 - Sua capacidade de se comprometer com o que foi fornecido (wireframe, styleguide);
 - Sua capacidade de documentação da sua parte da aplicação.
-- O mínimo necessário
+
+#### O mínimo necessário
 - As telas seguindo os wireframes a seguir e utilizando um mockAPI ou a API criada para o teste de backend(se está concorrendo também!);
 - README.md contendo informações básicas do projeto e como executá-lo.
 
@@ -21,13 +22,14 @@
 
 Os pontos a seguir se destacam como características para se destacar.
 
+- Usar Hooks e componentes como funções (e não classes)
+- Usar Redux, para gerenciar os estados e dispatches da aplicação
 - Testes de front-end;
 - Uso de ferramentas externas que facilitem o seu trabalho;
 - Cuidados especiais com otimização, SEO, entre outros;
 - Deploy da aplicação utilizando ferramentas externas (Netlify, Surge, S3, Firebase, etc);
 - Pipeline de deploy contínuo
 - Sugestões sobre o challenge embasadas em alguma argumentação.
-- User Stories e wireframes
 
 1. O(A) usuário(a) deve poder ver a lista de todas as ferramentas cadastradas
 
@@ -54,4 +56,5 @@ Bom trabalho!
 
 API
 
-Utilize um mockAPI para disponibilizar os dados para você! Ou se f
+Utilize um mockAPI para disponibilizar os dados para você! E compartilhe conosco a estrutura utilizada!
+Ou se vocês fez o teste de backend, também será avaliado a integração!
